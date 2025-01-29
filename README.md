@@ -1,7 +1,7 @@
 # FTMS
 
 
-Demo Flight Search<br>
+<strong>Demo Flight Search</strong><br>
 Flight Details <br>
 From: Bangalore
 To: Mumbai
