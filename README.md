@@ -1,4 +1,4 @@
-# Flight Ticket Management Syatem
+# Flight Booking and Reservation System
 
 ## Demo
 
