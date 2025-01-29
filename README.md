@@ -1,6 +1,10 @@
 # Flight Ticket Management Syatem
 
-https://flight-ticket-bs.netlify.app/
+## Demo
+
+Check out the live demo of the Airplane Ticket Booking and Management System [here](https://flight-ticket-bs.netlify.app/).<br>
+
+
 <strong>Demo Flight Search</strong><br>
 Flight Details <br>
 From: Bangalore <br>
