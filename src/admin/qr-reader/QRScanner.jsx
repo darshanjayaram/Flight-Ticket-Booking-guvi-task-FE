@@ -95,7 +95,7 @@ const QRScanner = () => {
         const data = await response.json();
         if (data.status === true) {
           if (
-            data.data.startsWith("localhost/verify-ticket/")
+            data.data.startsWith("https://flight-ticket-bs.netlify.app/verify-ticket/")
           ) {
             const url = data.data;
             window.open(url, "_blank");
