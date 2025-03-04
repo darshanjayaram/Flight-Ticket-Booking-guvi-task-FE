@@ -48,6 +48,7 @@ const AppRoutes = () => {
           path="/verify-ticket/:ticketId"
           element={<VerifyTicketAdmin />}
         />
+        <Route path="/profile" element={<Profile />} />
 
         {/* Fallback route for unknown paths */}
         <Route path="*" element={<ErrorPage />} />
